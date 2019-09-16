@@ -12,6 +12,7 @@ namespace visualstuio_gitdemo
 		{ /*hello world program*/
 			Console.WriteLine("Hello world");
 			Console.ReadLine();
+			Console.WriteLine("this is to check changes");
 		}
 	}
 }
