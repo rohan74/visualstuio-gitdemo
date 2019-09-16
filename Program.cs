@@ -9,7 +9,7 @@ namespace visualstuio_gitdemo
 	class Program
 	{
 		static void Main(string[] args)
-		{
+		{ /*hello world program*/
 			Console.WriteLine("Hello world");
 			Console.ReadLine();
 		}
